@@ -1,0 +1,21 @@
+{
+  "name": "@blunck/next-html",
+  "version": "1.0.0",
+  "description": "Import `.html` files as strings in your Next.js project",
+  "main": "index.js",
+  "repository": "alexblunck/next-html",
+  "keywords": [
+    "nextjs",
+    "html-loader",
+    "html"
+  ],
+  "author": "Alexander Blunck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexblunck/next-html/issues"
+  },
+  "homepage": "https://github.com/alexblunck/next-html#readme",
+  "dependencies": {
+    "html-loader": "0.5.5"
+  }
+}
